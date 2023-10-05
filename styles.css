@@ -1,0 +1,141 @@
+.div0{ width:80%;
+    margin:auto;
+    border:green 1px solid;
+    background-color:#022333}
+
+.div1{ width:80%;
+     height:550px;
+    margin:auto;
+      background-image:url(img/candle2.jpg);
+    background-repeat:no-repeat;
+    background-position:center;
+    background-size:100%;
+     padding:20px}
+
+.div1-1{ width:30%;
+       height:70px;
+      float:left;
+      background-image:url(img/logo.png);
+      background-repeat:no-repeat;
+      background-position:center;
+      background-size:100%;}
+
+.div1-2{ width:60%;
+     height:70px;
+
+    float:right;}
+
+.div2{ width:80%;
+     height:200px;
+    margin:auto;
+    border:1px solid #60C;
+    background-color: #0CB3DD;
+    padding:20px}
+
+.div2-1{width:35%;
+    height:170px;
+    float:right;
+    margin-right:10px;
+    margin-top:5px;
+    background-image:url("img/Candle1.jpg");
+    background-repeat: no-repeat;
+    background-size: 100%;
+    border: solid 3px white;
+ }
+ .div2-2{width:30%;
+height:130px;
+
+float:right;
+margin-top:5px;
+text-align: center center;
+ }
+.div3{ width:80%;
+     height:270px;
+    margin:auto;
+    padding:20px;
+    background-color: white;
+      }
+.div3-1{width:20%;
+     height:220px;
+    float: left;
+
+    background-color: #17579B;
+    text-align: center center;
+
+margin-left: 150px;
+margin-top: 10px;
+margin-right: 20px;
+
+}
+.div3-2{width:20%;
+     height:220px;
+    float: left;
+
+    background-color: purple;
+text-align: center center;
+margin-top: 10px;
+margin-right: 20px;
+}
+
+.div3-3{width:20%;
+     height:220px;
+    float: left;
+    border:1px solid pink;
+    background-color:green;
+text-align: center center;
+margin-top: 10px;
+
+}
+
+.div3-1 img{width:30px;height:30px}
+
+.div3-2 img{width:30px;height:30px}
+
+.div3-3 img{width:30px;height:30px}
+
+.div4{ width:80%;
+     height:100px;
+    margin:auto;
+    background-color: #17579B;
+    margin-bottom: 100px;
+      padding:20px}
+
+
+.a{text-transform:capitalize;
+text-decoration:none;
+border-right:hsla(0,0%,100%,1) solid 2px;
+color:hsla(0,0%,100%,1);
+margin:10px;
+padding:5px;
+text-align:center center;
+padding: 10px;
+ }
+
+.homepage{color:orange;
+   margin-left: -10px; }
+
+body{background-color:hsla(180,100%,20%,1)}
+
+h1{color:white}
+
+.p{margin: -10px}
+
+h3{color:white;
+
+
+text-align: center;
+text-transform: capitalize;
+
+}
+p{color:white;}
+
+.images{text-align:center;}
+
+.lastp{padding-left: 40px;
+    padding-top: 20px;
+}
+a{color:hsla(0,0%,100%,1);
+    text-decoration:none;}
+hr{width:70% ;
+   color: aliceblue;
+   margin:auto ;}
